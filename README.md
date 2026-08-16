@@ -1,5 +1,4 @@
 # miniarts-search
-# miniarts-search
 
 Small TypeScript RAG demo: OpenAI embeddings + PostgreSQL/pgvector + LLM answers.
 
